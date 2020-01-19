@@ -22,7 +22,7 @@
 
 **DESCRIBE WHY**
 
-![Positions](C:\Users\curtis\Documents\Blades Notes\img\Positions.png)
+![Positions](./img/Positions.png)
 
 ### Effect
 
@@ -50,7 +50,7 @@
 
 ### Devil's Bargain
 
-![Devil's Bargain](C:\Users\curtis\Documents\Blades Notes\img\devils-kiss.png)
+![Devil's Bargain](./img/devils-kiss.png)
 
 Pay for the die, not the result!
 
@@ -90,7 +90,7 @@ Pay for the die, not the result!
 
 Check for any additional factors you can think of!
 
-![image-20200118205250682](C:\Users\curtis\Documents\Blades Notes\img\engagement-roll.png)
+![image-20200118205250682](./img/engagement-roll.png)
 
 ------
 
