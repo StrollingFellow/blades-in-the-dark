@@ -16,7 +16,7 @@
 | Survey     | Observe the situation and anticipate outcomes       | 186      |
 | Sway       | Clever Social                                       | 187      |
 | Tinker     | fiddle with devices and mechanisms                  | 188      |
-| Wreck      | Fuck 'em/it up, fam.                                | 189      |
+| Wreck      | Mess 'em/it up, fam.                                | 189      |
 
 ### Positions
 
