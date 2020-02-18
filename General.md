@@ -1,7 +1,7 @@
 # Gameplay
 This section contains rules about game mechanics, as opposed to a later section on the game's lore
 
-### Actions
+## Actions
 | Skill Name | Description                                         | PDF Page |
 | ---------- | --------------------------------------------------- | -------- |
 | Attune     | Astral Perception                                   | 178      |
