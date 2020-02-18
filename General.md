@@ -1,6 +1,5 @@
 # Gameplay
-
-## When they want to do a roll
+This section contains rules about game mechanics, as opposed to a later section on the game's lore
 
 ### Actions
 | Skill Name | Description                                         | PDF Page |
